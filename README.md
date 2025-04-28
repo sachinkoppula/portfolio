@@ -13,21 +13,20 @@
 #### Microservices-based Inventory Management System
 - Built microservices using Spring Boot, communicating via REST APIs and Kafka messaging queues.
 - Managed separate PostgreSQL databases for each service; containerized via Docker Compose.
-- Added Kubernetes configuration for scaling the services.
 
 #### Music Recommendation System
 - Engineered a personalized recommendation system using KNN, SVD, and collaborative filtering.
-- Full-stack deployment with React, Spring, and PostgreSql.
+- Full-stack deployment with React, Spring, and PostgreSQL.
 
 ## Education
 ---
 - University at Buffalo, MS in Computer Science, AI focus (Dec 2024)
-- SR Engineering College, BS in Computer Science (June 2022)
+- SR Engineering College, BS in Computer Science ( June 2022)
 
 ## Work experience
 ---
 #### Graduate Research Assistant
-##### University at Buffalo , Jan 2024 - Dec 2024 (12 months)
+##### University at Buffalo, Jan 2024 - Dec 2024 (12 months)
 
 ####   Software Engineer
 ##### Cisco, Aug 2022 - Aug 2023 (1 year)
